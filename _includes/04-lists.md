@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+# what did i studied so far?
+-Git
+-Github
+-Github atom
+-CMD
+-Github Desktop
